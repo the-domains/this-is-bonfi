@@ -1,0 +1,14 @@
+layout_spectrum: 0.8242624462582171
+typography_spectrum: 0.4503877158276737
+color:
+  brandStrength: 0.5496420802082866
+  lightness: 0.0761464680545032
+  saturation: 0.9798925230279565
+  rhythmicContrast: 0.41809478448703885
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: This is Bonfi
