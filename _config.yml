@@ -1,4 +1,3 @@
-layout_spectrum: 0.8242624462582171
 typography_spectrum: 0.4503877158276737
 color:
   brandStrength: 0.5496420802082866
@@ -11,5 +10,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+layout_spectrum: 0.8242624462582171
 name: This is Bonfi
 title: Digital Marketing Solutions
+description: Need any help?
