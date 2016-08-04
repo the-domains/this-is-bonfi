@@ -12,5 +12,9 @@ color:
     - '#3B28CC'
 layout_spectrum: 0.8242624462582171
 name: This is Bonfi
+navigation:
+  - name: Solutions
+    id: b629812f-266c-43fc-abe2-2fa35f78375a
+    type: content
 title: This is Bonfi
 description: Digital Marketing Solutions
