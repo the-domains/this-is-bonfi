@@ -1,17 +1,16 @@
 ---
-datePublished: '2016-08-03T20:15:56.329Z'
+datePublished: '2016-08-04T19:12:45.861Z'
 sourcePath: _posts/2016-08-03-solutions.md
 author: []
 via: {}
-dateModified: '2016-08-03T20:15:55.751Z'
+dateModified: '2016-08-04T19:12:45.087Z'
 title: Solutions
 publisher: {}
 description: sjdfklsfjslkdfjsklfdjsklfjsldkf
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: solutions/index.html
+_type: Blurb
 
 ---
 # Solutions
